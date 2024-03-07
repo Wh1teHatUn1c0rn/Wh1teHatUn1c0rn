@@ -70,22 +70,3 @@
   
   <br/><br/><br/>
 </div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Wh1teHatUn1c0rn.vercel.app/?user=Wh1teHatUn1c0rn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wh1teHatUn1c0rn"></a>
-    <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wh1teHatUn1c0rn"></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh1teHatUn1c0rn"></a>
-  <img width=390 src="https://github-readme-stats-Wh1teHatUn1c0rn.vercel.app/api?username=Wh1teHatUn1c0rn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="" />
-    <img href="https://github-profile-trophy.vercel.app/?username=Wh1teHatUn1c0rn" />
-</div>
-
-<br/><br/>
-
-<hr/>
