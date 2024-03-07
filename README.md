@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" target="_blank"/>
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" target="_blank"/>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" target="_blank"/>
-  <a href="https://youtube.com/@@OffensiveUnicornCrew">  
+  <a href="https://youtube.com/@OffensiveUnicornCrew">  
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
   </a>
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" target="_blank"/>
