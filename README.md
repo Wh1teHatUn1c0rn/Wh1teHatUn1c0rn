@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Wh1teHatUn1c0rn.Wh1teHatUn1c0rn" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=linear-gradient&font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Offensive+Unicorn+Crew+says+hi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Offensive+Unicorn+Crew+says+hi!;" />
 </h1>
 
 <h3 align="center">Offensive Security Engineer | Pentester | Mentor | Cybersecurity Engineer | Content Creator</h3>
