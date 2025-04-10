@@ -9,10 +9,6 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **my blog**
- 
- 🌱 I’m currently learning **C++**
 
  ⚡ Fact **There are companies that have been hacked and companies that are yet to be hacked**
 
